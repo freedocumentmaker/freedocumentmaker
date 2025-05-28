@@ -3,7 +3,7 @@ title: Free Document Maker – AI Document Generator, PDF Tools & Image Converte
 description: Use 27+ AI-powered tools to create invoices, generate resumes, convert images, and edit PDFs instantly — 100% free and online at Free Document Maker.
 ---
 
-# 🧠 Free Document Maker – AI Document Generator, PDF Tools & Converters
+# 🧠 [Free Document Maker – AI Document Generator, PDF Tools & Converters](https://www.freedocumentmaker.com)
 
 [![Explore Tools](https://img.shields.io/badge/Explore-Tools-blue)](https://www.freedocumentmaker.com/tools)
 [![Visit Website](https://img.shields.io/badge/Visit-Website-green)](https://www.freedocumentmaker.com)
