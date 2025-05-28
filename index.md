@@ -11,7 +11,7 @@ description: Use 27+ AI-powered tools to create invoices, generate resumes, conv
 
 **Free Document Maker** is your all-in-one, browser-based solution for generating documents, editing PDFs, and converting images — powered by AI. Trusted by freelancers, students, creators, and businesses alike. No login. No watermark. No limits.
 
-👉 Start creating now at [FreeDocumentMaker.com](https://www.freedocumentmaker.com)
+👉 Start creating now at [Free Document Maker](https://www.freedocumentmaker.com)
 
 ---
 
