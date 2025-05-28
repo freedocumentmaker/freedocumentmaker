@@ -1,7 +1,7 @@
 # 🧠 AI Document Generator | Free Document Maker Online
 
 [![Explore Tools](https://img.shields.io/badge/Explore-Tools-blue)](https://www.freedocumentmaker.com/tools)
-[![Visit Website](https://img.shields.io/badge/Visit-Website-green)](https://www.freedocumentmaker.com)
+[![Free Document Maker](https://img.shields.io/badge/Visit-Website-green)](https://www.freedocumentmaker.com)
 [![Follow on Medium](https://img.shields.io/badge/Medium-Blog-black)](https://freedocumentmaker.medium.com)
 
 **Free Document Maker** is your all-in-one platform to create, convert, and manage documents online. With over 27+ AI-powered tools, we help freelancers, students, and businesses generate documents, edit PDFs, convert images, and streamline workflows — all 100% free and privacy-first.
