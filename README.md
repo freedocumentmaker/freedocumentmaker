@@ -1,4 +1,4 @@
-# 🧠 AI Document Generator | Free Document Maker Online
+# AI Document Generator | Free Document Maker Online
 
 [![Explore Tools](https://img.shields.io/badge/Explore-Tools-blue)](https://www.freedocumentmaker.com/tools)
 [![Free Document Maker](https://img.shields.io/badge/Visit-Website-green)](https://www.freedocumentmaker.com)
